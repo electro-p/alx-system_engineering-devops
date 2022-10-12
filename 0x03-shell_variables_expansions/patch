@@ -1,0 +1,15 @@
+#!/bin/bash
+chmod 777 0-alias
+chmod 777 1-hello_you
+chmod 777 2-path
+chmod 777 3-paths
+chmod 777 4-global_variables
+chmod 777 5-local_variables
+chmod 777 6-create_local_variable
+chmod 777 7-create_global_variable
+chmod 777 8-true_knowledge
+chmod 777 9-divide_and_rule
+chmod 777 10-love_exponent_breath
+chmod 777 11-binary_to_decimal
+chmod 777 12-combinations
+chmod 777 13-print_float
